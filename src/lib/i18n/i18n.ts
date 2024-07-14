@@ -1,7 +1,7 @@
 import { derived, writable } from 'svelte/store';
 
 const createLocaleStore = () => {
-	const initialValue = localStorage ? localStorage.getItem('locale') : 'es';
+	const initialValue = localStorage ? localStorage.getItem('locale') ?? 'es' : 'es';
 	const { subscribe, set, update } = writable(initialValue);
 
 	return {
