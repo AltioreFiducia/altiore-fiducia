@@ -27,7 +27,10 @@
 				</li>
 				<li class="text-surface-100">
 					<span class="font-semibold">{$t(translations, 'CONTACT_EMAIL')}</span><a
-						href="mailto:altiorefiducia@gmail.com">altiorefiducia@gmail.com</a
+						href="andrea.guevara@altiorefiducia.com">andrea.guevara@altiorefiducia.com</a
+					>
+					<span class="font-semibold">{$t(translations, 'CONTACT_EMAIL')}</span><a
+						href="nicole.molina@altiorefiducia.com">nicole.molina@altiorefiducia.com</a
 					>
 				</li>
 				<li class="text-surface-100">

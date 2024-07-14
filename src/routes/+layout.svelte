@@ -45,6 +45,10 @@
 	});
 </script>
 
+<svelte:head>
+	<title>Altiore Fiducia</title>
+</svelte:head>
+
 {#if isLoaded}
 	<Drawer>
 		<NavbarMobile />
