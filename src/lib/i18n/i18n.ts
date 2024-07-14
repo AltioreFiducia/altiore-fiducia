@@ -1,13 +1,13 @@
 import { derived, writable } from 'svelte/store';
 
 const createLocaleStore = () => {
-	const initialValue = localStorage ? localStorage.getItem('locale') ?? 'es' : 'es';
+	const initialValue = typeof window !== 'undefined' && localStorage.getItem('locale') ? localStorage.getItem('locale') : 'es';
 	const { subscribe, set, update } = writable(initialValue);
 
 	return {
 		subscribe,
 		set: (value: string) => {
-			if (localStorage) {
+			if (typeof window !== 'undefined') {
 				localStorage.setItem('locale', value);
 			}
 			set(value);
@@ -46,5 +46,5 @@ export const t = derived(
 	locale,
 	($locale) =>
 		(translations: Record<string, Record<string, string>>, key: string, vars = {}) =>
-			translate($locale, translations, key, vars)
+			translate($locale ?? '', translations, key, vars)
 );
