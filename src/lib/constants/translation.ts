@@ -26,7 +26,7 @@ const locale: Record<string, Record<string, string>> = {
 		OBJ_MED_THREE:
 			'Offer customized solutions to protect clients’ assets against pre-contractual, contractual, and post-contractual risks.',
 		OBJ_LAG: 'Long Term',
-		OBJ_LAG_ONE: 'Establish branches in the international market.',
+		OBJ_LAG_ONE: 'Establish branches in the local market.',
 		OBJ_LAG_TWO:
 			'To be a company recognized for its constant profitable growth and leadership in certain risks, inspired by excellence in service to its clients.',
 		SERVICE_PRO: 'Property',
@@ -94,7 +94,7 @@ const locale: Record<string, Record<string, string>> = {
 		OBJ_MED_THREE:
 			'Ofrecer soluciones personalizadas para cuidar el patrimonio de los clientes ante riesgos precontractuales, contractuales y post contractuales.',
 		OBJ_LAG: 'A Largo Plazo',
-		OBJ_LAG_ONE: 'Establecer sucursales en el mercado internacional.',
+		OBJ_LAG_ONE: 'Establecer sucursales en el mercado local.',
 		OBJ_LAG_TWO:
 			'Ser una empresa reconocida por su constante crecimiento rentable y liderazgo en ciertos riesgos, con inspiración en la excelencia de servicio a sus clientes.',
 		SERVICE_PRO: 'Propiedad',
