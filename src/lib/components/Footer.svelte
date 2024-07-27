@@ -38,7 +38,7 @@
 						href="https://www.google.com/maps?ll=-0.193132,-78.483208&z=17&t=m&hl=en&gl=EC&mapclient=embed&cid=10021627480259489487"
 						target="_blank"
 					>
-						Whymper E7 - 141 y Diego de Almagro, Edificio Millicento, Quito, Ecuador.
+						Whymper E7 - 141 y Diego de Almagro, Edificio Millecento, Quito, Ecuador.
 					</a>
 				</li>
 			</ul>

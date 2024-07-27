@@ -4,28 +4,24 @@
 @tailwind variants;
 
 html {
-	@apply bg-black;
+  @apply bg-black;
 }
 
 body {
-	@apply flex flex-col h-screen w-screen justify-center items-center;
-	@apply bg-gradient-to-b from-primary-700 to-black;
+  @apply flex flex-col h-screen w-screen justify-center items-center;
+  @apply bg-gradient-to-b from-primary-700 to-black;
+}
+
+button,
+li {
+  font-family: "ArtifaktElement-Regular";
 }
 
 p {
-	font-family: 'Artifakt Element';
-	src: url('https://db.onlinewebfonts.com/t/bf1ead8093f8b529c7581c1cefa75273.eot');
-	src:
-		url('https://db.onlinewebfonts.com/t/bf1ead8093f8b529c7581c1cefa75273.eot?#iefix')
-			format('embedded-opentype'),
-		url('https://db.onlinewebfonts.com/t/bf1ead8093f8b529c7581c1cefa75273.woff2') format('woff2'),
-		url('https://db.onlinewebfonts.com/t/bf1ead8093f8b529c7581c1cefa75273.woff') format('woff'),
-		url('https://db.onlinewebfonts.com/t/bf1ead8093f8b529c7581c1cefa75273.ttf') format('truetype'),
-		url('https://db.onlinewebfonts.com/t/bf1ead8093f8b529c7581c1cefa75273.svg#Artifakt Element')
-			format('svg');
-	@apply text-base font-light leading-relaxed;
+  font-family: "ArtifaktElement-Regular";
+  @apply text-base font-light leading-relaxed;
 }
 
 .section {
-	@apply flex flex-col px-4  md:px-12 py-32 z-10 relative;
+  @apply flex flex-col px-4  md:px-12 py-32 z-10 relative;
 }

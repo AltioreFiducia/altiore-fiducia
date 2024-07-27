@@ -1,15 +1,15 @@
-import adapter from '@sveltejs/adapter-netlify';
-import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
+import adapter from "@sveltejs/adapter-netlify";
+import { vitePreprocess } from "@sveltejs/vite-plugin-svelte";
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-	extensions: ['.svelte'],
-	preprocess: [vitePreprocess()],
-	kit: {
-		adapter: adapter({
-			edge: false,
-			split: false
-		})
-	}
+  extensions: [".svelte"],
+  preprocess: [vitePreprocess()],
+  kit: {
+    adapter: adapter({
+      edge: false,
+      split: false,
+    }),
+  },
 };
 export default config;

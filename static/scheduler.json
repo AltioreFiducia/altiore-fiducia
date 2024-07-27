@@ -1,268 +1,268 @@
 {
-	"scheduler": [
-		{
-			"date": "01/01",
-			"title": {
-				"en": "Happy New Year",
-				"es": "Año Nuevo"
-			},
-			"text": {
-				"en": "Dreams are meant to come true and this new year there are 365 opportunities to make them come true. Happy new year!",
-				"es": "Los sueños están para hacerse realidad y este nuevo año son 365 oportunidades de realizarlos. ¡Feliz año nuevo!"
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		},
-		{
-			"date": "21/01",
-			"title": {
-				"en": "International Hug Day",
-				"es": "Día Internacional del Abrazo"
-			},
-			"text": {
-				"en": "A hug is the perfect way to show love and support. Happy Hug Day!",
-				"es": "Un abrazo es la manera perfecta de mostrar amor y apoyo. ¡Feliz Día del Abrazo!"
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		},
-		{
-			"date": "06/02",
-			"title": {
-				"en": "Carnival",
-				"es": "Carnaval"
-			},
-			"text": {
-				"en": "Enjoy the vibrant celebrations of Carnival!",
-				"es": "¡Disfruta de las vibrantes celebraciones del Carnaval!"
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		},
-		{
-			"date": "14/02",
-			"title": {
-				"en": "Valentine's Day",
-				"es": "Día de San Valentín"
-			},
-			"text": {
-				"en": "The most valuable thing in life is not what we have, but who we have. Happy Valentine's Day!",
-				"es": "Lo más valioso de la vida no es lo que tenemos, sino a quien tenemos. ¡Feliz día del Amor y la Amistad!"
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		},
-		{
-			"date": "08/03",
-			"title": {
-				"en": "International Women's Day",
-				"es": "Día Internacional de la Mujer"
-			},
-			"text": {
-				"en": "Celebrate the strength and achievements of women around the world.",
-				"es": "Celebra la fuerza y los logros de las mujeres en todo el mundo."
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		},
-		{
-			"date": "07/03",
-			"title": {
-				"en": "St. Patrick's Day",
-				"es": "Día de San Patricio"
-			},
-			"text": {
-				"en": "Celebrate the luck of the Irish on St. Patrick's Day!",
-				"es": "¡Celebra la suerte de los irlandeses en el Día de San Patricio!"
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		},
-		{
-			"date": "20/03",
-			"title": {
-				"en": "Happiness Day",
-				"es": "Día de la Felicidad"
-			},
-			"text": {
-				"en": "It deserves to be celebrated with friends and those who make you feel loved and accepted.",
-				"es": "Merece que te reúnas a celebrar con tus amigos y con aquellos que te hacen sentir amado y aceptado."
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		},
-		{
-			"date": "21/03",
-			"title": {
-				"en": "World Down Syndrome Day",
-				"es": "Día Mundial del Síndrome de Down"
-			},
-			"text": {
-				"en": "Raise awareness and show support for those with Down Syndrome.",
-				"es": "Aumenta la conciencia y muestra apoyo a quienes tienen Síndrome de Down."
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		},
-		{
-			"date": "22/03",
-			"title": {
-				"en": "World Water Day",
-				"es": "Día Mundial del Agua"
-			},
-			"text": {
-				"en": "This date was established to reflect and debate on the crucial importance of water for our survival on Earth.",
-				"es": "Esta fecha se estableció para reflexionar y debatir sobre la crucial importancia de este líquido para nuestra supervivencia en la Tierra."
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		},
-		{
-			"date": "22/04",
-			"title": {
-				"en": "Earth Day",
-				"es": "Día de la Tierra"
-			},
-			"text": {
-				"en": "Recognized as 'Mother Nature,' 'Pachamama,' and 'Blue Pearl,' it is the place where all humans have evolved, our home in the universe.",
-				"es": "Es reconocida como 'Madre Naturaleza', 'Pachamama' y 'Perla Azul', siendo el lugar donde todos los humanos hemos evolucionado, nuestro hogar en el universo."
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		},
-		{
-			"date": "23/04",
-			"title": {
-				"en": "World Book Day",
-				"es": "Día Mundial del Libro"
-			},
-			"text": {
-				"en": "The date aims to encourage the wonderful habit of reading in children, young people, and adults, for its importance in the development of culture and education.",
-				"es": "La fecha pretende incentivar el maravilloso hábito de la lectura en niños, jóvenes y adultos. Por su importancia en el desarrollo de la cultura y la educación de la población."
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		},
-		{
-			"date": "01/05",
-			"title": {
-				"en": "Labor Day",
-				"es": "Día del Trabajador"
-			},
-			"text": {
-				"en": "Altiore Fiducia celebrates its valuable team on this Labor Day, their effort and dedication are the key to our progress.",
-				"es": "Altiore Fiducia celebra a su valioso equipo en este Día del Trabajador, su esfuerzo y dedicación son la clave de nuestro progreso."
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		},
-		{
-			"date": "01/06",
-			"title": {
-				"en": "Children's Day in Ecuador",
-				"es": "Día del Niño en Ecuador"
-			},
-			"text": {
-				"en": "Celebrate the joy and innocence of children on this special day.",
-				"es": "Celebra la alegría y la inocencia de los niños en este día especial."
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		},
-		{
-			"date": "22/06",
-			"title": {
-				"en": "Take Your Dog to Work Day",
-				"es": "Día de llevar a tu perro al trabajo"
-			},
-			"text": {
-				"en": "What better way to do it than sharing your workspace with your furry best friend? The World Take Your Dog to Work Day was created to share the workspace with pets, filling offices with barks, games, and pranks every year.",
-				"es": "¿Qué mejor manera de hacerlo que compartir tu espacio de trabajo con tu mejor amigo peludo? El Día Mundial de Llevar el Perro al Trabajo nació para compartir el espacio laboral con mascotas, llenando oficinas de ladridos, juegos y travesuras cada año."
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		},
-		{
-			"date": "10/08",
-			"title": {
-				"en": "First Cry of Independence",
-				"es": "Primer Grito de Independencia"
-			},
-			"text": {
-				"en": "Celebrates the first cry of independence in Ecuador, marking the beginning of the country’s struggle for freedom.",
-				"es": "Celebra el primer grito de independencia en Ecuador, marcando el inicio de la lucha del país por la libertad."
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		},
-		{
-			"date": "25/08",
-			"title": {
-				"en": "National Grandparents’ Day",
-				"es": "Día Nacional de los Abuelos y Abuelas"
-			},
-			"text": {
-				"en": "Honor and cherish the wisdom and love of grandparents on this special day.",
-				"es": "Honra y valora la sabiduría y el amor de los abuelos en este día especial."
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		},
-		{
-			"date": "21/09",
-			"title": {
-				"en": "International Day of Peace",
-				"es": "Día Internacional de la Paz"
-			},
-			"text": {
-				"en": "The International Day of Peace is understood as a gesture of conservation and extension of peace for all human beings and for all countries of the world.",
-				"es": "El Día Internacional de la Paz se entiende como un gesto de conservación y amplitud de la paz para todos los seres humanos y para todos los países del mundo."
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		},
-		{
-			"date": "09/10",
-			"title": {
-				"en": "Independence of Guayaquil",
-				"es": "Independencia de Guayaquil"
-			},
-			"text": {
-				"en": "The date honors the independence process that took place on October 9, 1820, in the Province of Guayaquil, which managed to separate from the Spanish Empire. This event is considered the definitive step for the independence of Ecuador.",
-				"es": "La fecha homenajea el proceso independentista ocurrido el 9 de octubre de 1820 en la Provincia de Guayaquil, que logró separarse del Imperio español. Este suceso se considera como el paso definitivo para la independencia de Ecuador."
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		},
-		{
-			"date": "10/10",
-			"title": {
-				"en": "World Mental Health Day",
-				"es": "Día Mundial de la Salud Mental"
-			},
-			"text": {
-				"en": "Understanding what our mind needs to maintain a healthy balance is an effective way to prevent an emotional disorder that harms our mental health.",
-				"es": "Entender qué necesita nuestra mente para mantener un sano equilibrio, es una forma eficaz de prevenir un trastorno emocional que perjudique nuestra salud mental."
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		},
-		{
-			"date": "28/11",
-			"title": {
-				"en": "Thanksgiving",
-				"es": "Día de Acción de Gracias"
-			},
-			"text": {
-				"en": "The celebration aims to give thanks for the blessings of the year that is ending.",
-				"es": "La celebración tiene como propósito agradecer las bendiciones del año que termina."
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		},
-		{
-			"date": "25/12",
-			"title": {
-				"en": "Christmas",
-				"es": "Navidad"
-			},
-			"text": {
-				"en": "Christmas commemorates the birth of baby Jesus, a great celebration for humanity that celebrates the union of the family and the reunion with the Holy Spirit.",
-				"es": "La Navidad conmemora el Nacimiento del niño Jesús, una gran fiesta para la humanidad que celebra la unión de la familia y el reencuentro con el Espíritu Santo."
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		},
-		{
-			"date": "31/12",
-			"title": {
-				"en": "Old Year",
-				"es": "Año viejo"
-			},
-			"text": {
-				"en": "The day represents the end of a period or cycle and, in many cases, the date implies reflection and self-evaluation of all our life projects.",
-				"es": "Día que representa el fin de un lapso o ciclo y, en muchos casos, la fecha implica la reflexión y autoevaluación de todos nuestros proyectos de vida."
-			},
-			"image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
-		}
-	]
+  "scheduler": [
+    {
+      "date": "01/01",
+      "title": {
+        "en": "Happy New Year",
+        "es": "Año Nuevo"
+      },
+      "text": {
+        "en": "Dreams are meant to come true and this new year there are 365 opportunities to make them come true. Happy new year!",
+        "es": "Los sueños están para hacerse realidad y este nuevo año son 365 oportunidades de realizarlos. ¡Feliz año nuevo!"
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    },
+    {
+      "date": "21/01",
+      "title": {
+        "en": "International Hug Day",
+        "es": "Día Internacional del Abrazo"
+      },
+      "text": {
+        "en": "A hug is the perfect way to show love and support. Happy Hug Day!",
+        "es": "Un abrazo es la manera perfecta de mostrar amor y apoyo. ¡Feliz Día del Abrazo!"
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    },
+    {
+      "date": "06/02",
+      "title": {
+        "en": "Carnival",
+        "es": "Carnaval"
+      },
+      "text": {
+        "en": "Enjoy the vibrant celebrations of Carnival!",
+        "es": "¡Disfruta de las vibrantes celebraciones del Carnaval!"
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    },
+    {
+      "date": "14/02",
+      "title": {
+        "en": "Valentine's Day",
+        "es": "Día de San Valentín"
+      },
+      "text": {
+        "en": "The most valuable thing in life is not what we have, but who we have. Happy Valentine's Day!",
+        "es": "Lo más valioso de la vida no es lo que tenemos, sino a quien tenemos. ¡Feliz día del Amor y la Amistad!"
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    },
+    {
+      "date": "08/03",
+      "title": {
+        "en": "International Women's Day",
+        "es": "Día Internacional de la Mujer"
+      },
+      "text": {
+        "en": "Celebrate the strength and achievements of women around the world.",
+        "es": "Celebra la fuerza y los logros de las mujeres en todo el mundo."
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    },
+    {
+      "date": "07/03",
+      "title": {
+        "en": "St. Patrick's Day",
+        "es": "Día de San Patricio"
+      },
+      "text": {
+        "en": "Celebrate the luck of the Irish on St. Patrick's Day!",
+        "es": "¡Celebra la suerte de los irlandeses en el Día de San Patricio!"
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    },
+    {
+      "date": "20/03",
+      "title": {
+        "en": "Happiness Day",
+        "es": "Día de la Felicidad"
+      },
+      "text": {
+        "en": "It deserves to be celebrated with friends and those who make you feel loved and accepted.",
+        "es": "Merece que te reúnas a celebrar con tus amigos y con aquellos que te hacen sentir amado y aceptado."
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    },
+    {
+      "date": "21/03",
+      "title": {
+        "en": "World Down Syndrome Day",
+        "es": "Día Mundial del Síndrome de Down"
+      },
+      "text": {
+        "en": "Raise awareness and show support for those with Down Syndrome.",
+        "es": "Aumenta la conciencia y muestra apoyo a quienes tienen Síndrome de Down."
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    },
+    {
+      "date": "22/03",
+      "title": {
+        "en": "World Water Day",
+        "es": "Día Mundial del Agua"
+      },
+      "text": {
+        "en": "This date was established to reflect and debate on the crucial importance of water for our survival on Earth.",
+        "es": "Esta fecha se estableció para reflexionar y debatir sobre la crucial importancia de este líquido para nuestra supervivencia en la Tierra."
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    },
+    {
+      "date": "22/04",
+      "title": {
+        "en": "Earth Day",
+        "es": "Día de la Tierra"
+      },
+      "text": {
+        "en": "Recognized as 'Mother Nature,' 'Pachamama,' and 'Blue Pearl,' it is the place where all humans have evolved, our home in the universe.",
+        "es": "Es reconocida como 'Madre Naturaleza', 'Pachamama' y 'Perla Azul', siendo el lugar donde todos los humanos hemos evolucionado, nuestro hogar en el universo."
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    },
+    {
+      "date": "23/04",
+      "title": {
+        "en": "World Book Day",
+        "es": "Día Mundial del Libro"
+      },
+      "text": {
+        "en": "The date aims to encourage the wonderful habit of reading in children, young people, and adults, for its importance in the development of culture and education.",
+        "es": "La fecha pretende incentivar el maravilloso hábito de la lectura en niños, jóvenes y adultos. Por su importancia en el desarrollo de la cultura y la educación de la población."
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    },
+    {
+      "date": "01/05",
+      "title": {
+        "en": "Labor Day",
+        "es": "Día del Trabajador"
+      },
+      "text": {
+        "en": "Altiore Fiducia celebrates its valuable team on this Labor Day, their effort and dedication are the key to our progress.",
+        "es": "Altiore Fiducia celebra a su valioso equipo en este Día del Trabajador, su esfuerzo y dedicación son la clave de nuestro progreso."
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    },
+    {
+      "date": "01/06",
+      "title": {
+        "en": "Children's Day in Ecuador",
+        "es": "Día del Niño en Ecuador"
+      },
+      "text": {
+        "en": "Celebrate the joy and innocence of children on this special day.",
+        "es": "Celebra la alegría y la inocencia de los niños en este día especial."
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    },
+    {
+      "date": "22/06",
+      "title": {
+        "en": "Take Your Dog to Work Day",
+        "es": "Día de llevar a tu perro al trabajo"
+      },
+      "text": {
+        "en": "What better way to do it than sharing your workspace with your furry best friend? The World Take Your Dog to Work Day was created to share the workspace with pets, filling offices with barks, games, and pranks every year.",
+        "es": "¿Qué mejor manera de hacerlo que compartir tu espacio de trabajo con tu mejor amigo peludo? El Día Mundial de Llevar el Perro al Trabajo nació para compartir el espacio laboral con mascotas, llenando oficinas de ladridos, juegos y travesuras cada año."
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    },
+    {
+      "date": "10/08",
+      "title": {
+        "en": "First Cry of Independence",
+        "es": "Primer Grito de Independencia"
+      },
+      "text": {
+        "en": "Celebrates the first cry of independence in Ecuador, marking the beginning of the country’s struggle for freedom.",
+        "es": "Celebra el primer grito de independencia en Ecuador, marcando el inicio de la lucha del país por la libertad."
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    },
+    {
+      "date": "25/08",
+      "title": {
+        "en": "National Grandparents’ Day",
+        "es": "Día Nacional de los Abuelos y Abuelas"
+      },
+      "text": {
+        "en": "Honor and cherish the wisdom and love of grandparents on this special day.",
+        "es": "Honra y valora la sabiduría y el amor de los abuelos en este día especial."
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    },
+    {
+      "date": "21/09",
+      "title": {
+        "en": "International Day of Peace",
+        "es": "Día Internacional de la Paz"
+      },
+      "text": {
+        "en": "The International Day of Peace is understood as a gesture of conservation and extension of peace for all human beings and for all countries of the world.",
+        "es": "El Día Internacional de la Paz se entiende como un gesto de conservación y amplitud de la paz para todos los seres humanos y para todos los países del mundo."
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    },
+    {
+      "date": "09/10",
+      "title": {
+        "en": "Independence of Guayaquil",
+        "es": "Independencia de Guayaquil"
+      },
+      "text": {
+        "en": "The date honors the independence process that took place on October 9, 1820, in the Province of Guayaquil, which managed to separate from the Spanish Empire. This event is considered the definitive step for the independence of Ecuador.",
+        "es": "La fecha homenajea el proceso independentista ocurrido el 9 de octubre de 1820 en la Provincia de Guayaquil, que logró separarse del Imperio español. Este suceso se considera como el paso definitivo para la independencia de Ecuador."
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    },
+    {
+      "date": "10/10",
+      "title": {
+        "en": "World Mental Health Day",
+        "es": "Día Mundial de la Salud Mental"
+      },
+      "text": {
+        "en": "Understanding what our mind needs to maintain a healthy balance is an effective way to prevent an emotional disorder that harms our mental health.",
+        "es": "Entender qué necesita nuestra mente para mantener un sano equilibrio, es una forma eficaz de prevenir un trastorno emocional que perjudique nuestra salud mental."
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    },
+    {
+      "date": "28/11",
+      "title": {
+        "en": "Thanksgiving",
+        "es": "Día de Acción de Gracias"
+      },
+      "text": {
+        "en": "The celebration aims to give thanks for the blessings of the year that is ending.",
+        "es": "La celebración tiene como propósito agradecer las bendiciones del año que termina."
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    },
+    {
+      "date": "25/12",
+      "title": {
+        "en": "Christmas",
+        "es": "Navidad"
+      },
+      "text": {
+        "en": "Christmas commemorates the birth of baby Jesus, a great celebration for humanity that celebrates the union of the family and the reunion with the Holy Spirit.",
+        "es": "La Navidad conmemora el Nacimiento del niño Jesús, una gran fiesta para la humanidad que celebra la unión de la familia y el reencuentro con el Espíritu Santo."
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    },
+    {
+      "date": "31/12",
+      "title": {
+        "en": "Old Year",
+        "es": "Año viejo"
+      },
+      "text": {
+        "en": "The day represents the end of a period or cycle and, in many cases, the date implies reflection and self-evaluation of all our life projects.",
+        "es": "Día que representa el fin de un lapso o ciclo y, en muchos casos, la fecha implica la reflexión y autoevaluación de todos nuestros proyectos de vida."
+      },
+      "image": "https://c.tadst.com/gfx/750w/fireworks-in-the-sky.jpg"
+    }
+  ]
 }

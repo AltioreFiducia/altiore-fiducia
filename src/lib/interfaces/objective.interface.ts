@@ -1,5 +1,5 @@
 export interface IObjective {
-	index: number;
-	title: string;
-	objectives: string[];
+  index: number;
+  title: string;
+  objectives: string[];
 }
