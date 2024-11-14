@@ -31,7 +31,7 @@ const locale: Record<string, Record<string, string>> = {
   es: {
     ABOUT_US_TITLE: "Sobre Nosotros",
     ABOUT_US_TEXT:
-      'Altiore Fiducia, en latín, significa "la más alta confianza" y es lo que queremos brindar a todos quienes lleguen a nosotros, mediante:',
+      'Altiore Fiducia, en latín, significa "la confianza más alta" y es lo que queremos brindar a todos quienes lleguen a nosotros, mediante:',
     ABOUT_US_ONE: "Coberturas de reaseguros con calidad de respaldo.",
     ABOUT_US_TWO: "Security de excelente prestigio a nivel mundial.",
     ABOUT_US_THREE: "Eficiencia.",
