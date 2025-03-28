@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://altiorefiducia.com/sitemap.xml
+
+# Prevent indexing of sensitive routes
+Disallow: /api/
+Disallow: /admin/

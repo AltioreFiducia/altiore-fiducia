@@ -1,0 +1,137 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+
+	"page_services_title": "Our Services",
+	"page_services_highlighted_text": "Services",
+	"page_services_subtitle": "Discover how we can protect your assets and secure your future.",
+	"page_services_text_1": "Discover our",
+	"page_services_text_2": "services",
+
+	"page_about_us_title": "About Us",
+	"page_about_us_highlighted_text": "About Us",
+	"page_about_us_subtitle": "Discover our history, mission and vision to understand what makes us different.",
+	"page_about_us_esencia_title_1": "Our",
+	"page_about_us_esencia_title_2": "essence",
+	"page_about_us_vision_title": "Vision",
+	"page_about_us_mission_title": "Mission",
+	"page_about_us_goals_title": "Our",
+	"page_about_us_goals_title_2": "goals",
+
+	"hero_content_title": "Welcome to",
+	"hero_content_subtitle": "We are an insurance intermediary and we help our clients to:",
+	"hero_content_bullets_1": "Manage their risks",
+	"hero_content_bullets_2": "Protect their assets and recover their losses",
+	"hero_content_bullets_3": "Through this service, we help businesses and institutions to remain operational and rebuild their assets",
+
+	"navbar_home": "Home",
+	"navbar_about_us": "About Us",
+	"navbar_services": "Services",
+	"navbar_language": "Language:",
+
+	"footer_address": "Address",
+	"footer_office": "Our Office",
+	"footer_contact": "Contact",
+	"footer_emails": "Emails:",
+	"footer_social_media": "Social Media:",
+	"footer_copyright": "Altiore Fiducia. All rights reserved. | Developed by Pablo Beltran",
+	"footer_services": "1. Services",
+	"footer_about_us": "2. About Us",
+
+	"company_values_title": "Our",
+	"company_values_subtitle": "values",
+	"company_values_description": "These fundamental values guide every aspect of our work and reflect our commitment to excellence and customer service.",
+
+	"about_us_content_title_1": "About",
+	"about_us_content_title_2": "Us",
+	"about_us_content_description": "Altiore Fiducia, in Latin, means \"the highest trust\" and is what we want to offer to all who come to us, through:",
+	"about_us_content_bullets_1": "Reinsurance coverages with quality backup.",
+	"about_us_content_bullets_2": "World-class security.",
+	"about_us_content_bullets_3": "Efficiency.",
+
+	"testimonials_title": "What our",
+	"testimonials_subtitle": "clients say",
+
+	"service_button_text": "Discover all our services",
+
+	"service_content_title_1": "Our",
+	"service_content_title_2": "services",
+	"service_content_description": "We never stay still and are always looking for new ways to grow and improve how we do business. We offer various services depending on your needs.",
+
+	"goal_short_term_1": "Generate confidence in insurers with the service we provide on advice for excellent coverage against business risks.",
+	"goal_short_term_2": "Advise in each decision, risk and consulting of your business.",
+	"goal_short_term_3": "Foster among collaborators a culture of growth, teamwork and leadership.",
+
+	"goal_medium_term_1": "Be the insurance broker with the best service for our clients in the Ecuadorian market.",
+	"goal_medium_term_2": "Convert Altiore-Fiducia Intermediary of Reinsurance S.A. into a company that represents a culture of honesty, transparency, passion for work and leadership in the Ecuadorian market.",
+	"goal_medium_term_3": "Offer customized solutions to protect the assets of our clients against pre-contractual, contractual and post-contractual risks.",
+
+	"goal_long_term_1": "Establish branches in the local market.",
+	"goal_long_term_2": "Be a company recognized for its constant profitable growth and leadership in certain risks, with inspiration from the excellence of service to its clients.",
+
+	"mission_title": "Mission",
+	"mission_description": "Together, having a deep knowledge, intelligent information to offer solutions, advice and quality for the appropriate placement of reinsurance and the management of claims.",
+	
+	"vision_title": "Vision",
+	"vision_description": "Be the insurance intermediary with the best service for the client, generating confidence and resilience.",
+
+	"service_air_title": "Aviation",
+	"service_air_description": "Protects aircraft and aircraft against losses or damages that may occur during their use, maintenance and transport.",
+	"service_air_bullets_1": "Hull and RC",
+	"service_air_bullets_2": "Airports and Hangars",
+	"service_air_bullets_3": "Loss of License",
+	"service_air_bullets_4": "Hull War",
+	"service_air_bullets_5": "Loss of License",
+
+	"service_energy_title": "Energy",
+	"service_energy_bullets_1": "Onshore Oil & Gas - Petrochemicals, distribution and storage of fuel",
+	"service_energy_bullets_2": "Offshore Oil & Gas - Extraction",
+
+	"service_finance_lines_title": "Finance Lines",
+	"service_finance_lines_bullets_1": "Financial protection for companies and professionals",
+	"service_finance_lines_bullets_2": "Directors and Administrators Liability",
+	"service_finance_lines_bullets_3": "Professional Civil Liability - Errors and Omissions",
+	"service_finance_lines_bullets_4": "Cyber Risks",
+	"service_finance_lines_bullets_5": "Financial Crime - BBB",
+
+	"service_technical_lines_title": "Technical Lines",
+	"service_technical_lines_bullets_1": "Breakdown of Machinery",
+	"service_technical_lines_bullets_2": "All Risks of Contractor Equipment and Machinery (TREC)",
+	"service_technical_lines_bullets_3": "All Risks of Construction (CAR - Construction All Risk)",
+	"service_technical_lines_bullets_4": "Electronic Equipment",
+	"service_technical_lines_bullets_5": "Loss of License",
+
+	"service_maritime_title": "Maritime",
+	"service_maritime_description": "Protects vessels against losses or damages that may occur during their operation of different types of vessels.",
+	"service_maritime_bullets_1": "Hull and P&I (Commercial, Cargo, Fishing, Pleasure)",
+	"service_maritime_bullets_2": "Maritime Civil Liability",
+	"service_maritime_bullets_3": "Cargo",
+	"service_maritime_bullets_4": "STP",
+
+	"service_civil_liability_title": "Civil Liability",
+	"service_civil_liability_description": "Personal injuries and damage to third party property, including indirect losses and legal defense costs.",
+
+	"service_property_title": "Property",
+	"service_property_description": "From natural disasters such as hurricanes or earthquakes, to operational disruptions and economic losses, companies must find risk management solutions.",
+
+	"about_us_tabs_short_term": "Short term",
+	"about_us_tabs_medium_term": "Medium term",
+	"about_us_tabs_long_term": "Long term",
+
+	"testimonial_1_name": "María Fernanda Cárdenas",
+	"testimonial_1_quote": "It is very pleasant to work with Altiore, their market knowledge and quality service generate a great experience when doing business. They are a very good partner in facultative placements.",
+	"testimonial_1_company": "Reinsurance Manager, Seguros Constitución",
+
+	"testimonial_2_name": "Anonymous",
+	"testimonial_2_quote": "I want to express my total satisfaction with the services of Altiore Fiducia. From the beginning, their collaborators have demonstrated that they are highly responsible, committed and professional in every aspect of their work. They have met all the deadlines and have delivered high-quality results, exceeding my expectations. I definitely recommend Altiore Fiducia to those who seek reliable and competent professionals. ¡An excellent job!",
+	"testimonial_2_company": "Analyst of Reinsurance, Quito Technical and Reinsurance",
+
+	"company_values_1": "Teamwork",
+	"company_values_2": "Collaboration",
+	"company_values_3": "Generate confidence",
+	"company_values_4": "Integrity",
+	"company_values_5": "Ethics",
+	"company_values_6": "Knowledge",
+	"company_values_7": "Commitment",
+	"company_values_8": "Excelence in service",
+	"company_values_9": "Passion for work"
+}

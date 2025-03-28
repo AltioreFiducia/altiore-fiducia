@@ -1,0 +1,137 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+
+	"page_services_title": "Nuestros Servicios",
+	"page_services_highlighted_text": "Servicios",
+	"page_services_subtitle": "Descubre cómo podemos proteger tus activos y asegurar tu futuro.",
+	"page_services_text_1": "Conoce nuestros",
+	"page_services_text_2": "servicios",
+
+	"page_about_us_title": "Sobre Nosotros",
+	"page_about_us_highlighted_text": "Nosotros",
+	"page_about_us_subtitle": "Conoce nuestra historia, misión y visión para entender qué nos hace diferentes.",
+	"page_about_us_esencia_title_1": "Nuestra",
+	"page_about_us_esencia_title_2": "esencia",
+	"page_about_us_vision_title": "Visión",
+	"page_about_us_mission_title": "Misión",
+	"page_about_us_goals_title": "Nuestros",
+	"page_about_us_goals_title_2": "objetivos",
+
+	"hero_content_title": "Bienvenido a",
+	"hero_content_subtitle": "Somos un intermediario de reaseguros y ayudamos a nuestros clientes a:",
+	"hero_content_bullets_1": "Manejar sus riegos",
+	"hero_content_bullets_2": "Proteger sus Bienes y recuperar sus perdidas",
+	"hero_content_bullets_3": "Mediante este servicio ayudamos a que los negocios e instituciones se mantengan operando y reconstruyendo sus activos",
+
+	"navbar_home": "Inicio",
+	"navbar_about_us": "Sobre Nosotros",
+	"navbar_services": "Servicios",
+	"navbar_language": "Idioma:",
+
+	"footer_address": "Dirección",
+	"footer_office": "Nuestra Oficina",
+	"footer_contact": "Contacto",
+	"footer_emails": "Emails:",
+	"footer_social_media": "Redes Sociales:",
+	"footer_copyright": "Altiore Fiducia. Todos los derechos reservados. | Desarrollado por Pablo Beltran",
+	"footer_services": "1. Servicios",
+	"footer_about_us": "2. Sobre Nosotros",
+
+	"company_values_title": "Nuestros",
+	"company_values_subtitle": "valores",
+	"company_values_description": "Estos valores fundamentales guían cada aspecto de nuestro trabajo y reflejan nuestro compromiso con la excelencia y el servicio al cliente.",
+
+	"about_us_content_title_1": "Sobre",
+	"about_us_content_title_2": "Nosotros",
+	"about_us_content_description": "Altiore Fiducia, en latín, significa \"la confianza más alta\" y es lo que queremos brindar a todos quienes lleguen a nosotros, mediante:",
+	"about_us_content_bullets_1": "Coberturas de reaseguros con calidad de respaldo.",
+	"about_us_content_bullets_2": "Security de excelente prestigio a nivel mundial.",
+	"about_us_content_bullets_3": "Eficiencia.",
+
+	"testimonials_title": "Lo que dicen",
+	"testimonials_subtitle": "nuestros clientes",
+
+	"service_button_text": "Conoce todos nuestros servicios",
+
+	"service_content_title_1": "Nuestros",
+	"service_content_title_2": "servicios",
+	"service_content_description": "Nunca nos quedamos quietos y siempre estamos buscando nuevas formas de crecer y mejorar cómo hacer negocios. Ofrecemos varios servicios según tus necesidades.",
+
+	"goal_short_term_1": "Generar confianza en las aseguradoras con el servicio que brindamos sobre la asesoría de excelentes coberturas ante los riesgos de los negocios u objeto a cubrir.",
+	"goal_short_term_2": "Asesorar en cada decisión, riesgo y consultoría de su negocio.",
+	"goal_short_term_3": "Fomentar entre los colaboradores una cultura de crecimiento, trabajo en equipo y liderazgo.",
+
+	"goal_medium_term_1": "Ser el bróker de reaseguros con el mejor servicio para nuestros clientes del mercado ecuatoriano.",
+	"goal_medium_term_2": "Convertir a Altiore-Fiducia Intermediaria de Reaseguros S.A. en una empresa que represente una cultura de honestidad, transparencia, pasión por el trabajo y liderazgo en el mercado ecuatoriano.",
+	"goal_medium_term_3": "Ofrecer soluciones personalizadas para cuidar el patrimonio de los clientes ante riesgos pre-contractuales, contractuales y post contractuales.",
+
+	"goal_long_term_1": "Establecer sucursales en el mercado local.",
+	"goal_long_term_2": "Ser una empresa reconocida por su constante crecimiento rentable y liderazgo en ciertos riesgos, con inspiración en la excelencia de servicio a sus clientes.",
+
+	"mission_title": "Misión",
+	"mission_description": "Juntos, tener un conocimiento profundo, información inteligente para ofrecer soluciones, asesoría y calidad para la colocación adecuada de reaseguros y manejo de los siniestros.",
+
+	"vision_title": "Visión",
+	"vision_description": "Ser el intermediario de reaseguros con el mejor servicio para el cliente generando de esta manera confianza y resiliencia.",
+
+	"service_air_title": "Aviación",
+	"service_air_description": "Protege los aviones y aeronaves contra daños o pérdidas que puedan ocurrir durante su uso, mantenimiento y transporte.",
+	"service_air_bullets_1": "Casco y RC",
+	"service_air_bullets_2": "Aeropuertos y Hangares",
+	"service_air_bullets_3": "Pérdida de Licencia",
+	"service_air_bullets_4": "Casco Guerra",
+	"service_air_bullets_5": "Pérdida de Licencia",
+
+	"service_energy_title": "Energía",
+	"service_energy_bullets_1": "Onshore Oil & Gas - Petroquimicas, distribución y almacenaje de combustible",
+	"service_energy_bullets_2": "Offshore Oil & Gas - Extracción",
+	
+	"service_finance_lines_title": "Líneas de Financieras",
+	"service_finance_lines_bullets_1": "Protección financiera para compañías y profesionales",
+	"service_finance_lines_bullets_2": "Responsabilidad de Directores y Administradores",
+	"service_finance_lines_bullets_3": "Responsabilidad Civil Profesional - Errores y Omisiones",
+	"service_finance_lines_bullets_4": "Riesgos cibernéticos (Cyber Risks)",
+	"service_finance_lines_bullets_5": "Crimen Financiero - BBB",
+
+	"service_technical_lines_title": "Líneas Técnicas",
+	"service_technical_lines_bullets_1": "Rotura de Maquinaria",
+	"service_technical_lines_bullets_2": "Todo Riesgo Montaje",
+	"service_technical_lines_bullets_3": "Todo riesgo de Equipo y Maquinaria de Contratista (TREC)",
+	"service_technical_lines_bullets_4": "Todo riesgo de Construcción (CAR - Construction All Risk)",
+	"service_technical_lines_bullets_5": "Equipo Electrónico",
+
+	"service_maritime_title": "Marítimo",
+	"service_maritime_description": "Ampara las embarcaciones contra las pérdidas o daños que pueda sufrir en el ejercicio normal de sus operaciones de los diferentes tipos de embarcaciones.",
+	"service_maritime_bullets_1": "Casco y P&I (Comerciales, Transporte de cargas, busques pesqueros, placer)",
+	"service_maritime_bullets_2": "Responsabilidd Civil Marítima",
+	"service_maritime_bullets_3": "Carga",
+	"service_maritime_bullets_4": "STP",
+
+	"service_civil_liability_title": "Responsabilidad Civil",
+	"service_civil_liability_description": "Lesiones personales y daños a la propiedad de terceros, incluyendo las pérdidas indirectas y los costos de defensa legal.",
+
+	"service_property_title": "Propiedad",
+	"service_property_description": "Desde desastres naturales, como huracanes o terremotos, hasta interrupciones operativas y pérdidas económicas, las empresas deben encontrar soluciones de gestión de riesgos.",
+
+	"about_us_tabs_short_term": "Corto plazo",
+	"about_us_tabs_medium_term": "Mediano plazo",
+	"about_us_tabs_long_term": "Largo plazo",
+
+	"testimonial_1_name": "María Fernanda Cárdenas",
+	"testimonial_1_quote": "Es muy grato trabajar con Altiore, su conocimiento del mercado y un servicio de calidad, generan una gran experiencia al momento de hacer negocios. Son un muy buen socio en colocaciones facultativas.",
+	"testimonial_1_company": "Gerente de Reaseguros, Seguros Constitución",
+
+	"testimonial_2_name": "Anónimo",
+	"testimonial_2_quote": "Quiero expresar mi total satisfacción con los servicios de Altiore Fiducia. Desde el inicio, sus colaboradores han demostrado ser personas altamente responsables, comprometidas y profesionales en cada aspecto de su trabajo. Han cumplido con todos los plazos establecidos y han entregado resultados de alta calidad, superando mis expectativas. Definitivamente recomiendo a Altiore Fiducia para quienes busquen profesionales confiables y competentes. ¡Un excelente trabajo!",
+	"testimonial_2_company": "Analista de Reaseguros, Quito Tecnico y Reaseguros",
+
+	"company_values_1": "Trabajo en equipo",
+	"company_values_2": "Colaboración",
+	"company_values_3": "Generar confianza",
+	"company_values_4": "Integridad",
+	"company_values_5": "Ética",
+	"company_values_6": "Conocimiento",
+	"company_values_7": "Compromiso",
+	"company_values_8": "Excelencia en el servicio",
+	"company_values_9": "Pasión por el trabajo"
+}
